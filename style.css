@@ -1,0 +1,33 @@
+body{
+    font-size:39px;
+    text-align:center;
+    font-family:"Trebuchet MS";
+    background-color:#FA8072;
+}
+
+.mi-boton {
+  padding: 5px 30px;
+  background-color: write 5px; 
+  color: black;
+  border: solid #0D0D0D 2px ;
+  border-radius: 100px;
+  cursor: pointer;
+}
+
+
+.caja {
+box-sizing: border-box;
+width: 10%;
+border: solid #0D0D0D 3px;
+padding: 3px;
+background-color: #E9967A;
+color: black;
+border-radius: 10px;
+color="write">This text is write
+}
+
+.titulo{
+    font-family: cursive;
+    color:black;
+    font-size: 30px;
+}
